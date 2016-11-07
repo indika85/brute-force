@@ -1,0 +1,2 @@
+H:\C#Projects\key sender\key sender\obj\Debug\key sender.exe
+H:\C#Projects\key sender\key sender\obj\Debug\key sender.pdb

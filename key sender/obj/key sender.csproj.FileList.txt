@@ -1,0 +1,9 @@
+bin\Debug\key sender.exe
+bin\Debug\key sender.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\key_sender.Form1.resources
+obj\Debug\key_sender.Properties.Resources.resources
+obj\Debug\key sender.csproj.GenerateResource.Cache
+obj\Debug\key sender.exe
+obj\Debug\key sender.pdb
+obj\Debug\key_sender.Form2.resources
